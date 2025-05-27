@@ -20,10 +20,20 @@ h1{
     color: rgb(97, 31, 31);
 }
 
+.descricao{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+
+
+}
 .options{
     display: flex;
     flex-direction: column;
     gap: 15px;
+    justify-content: center;
+    align-items: center;
 
 } 
 

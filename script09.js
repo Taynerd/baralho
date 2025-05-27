@@ -1,14 +1,14 @@
 const perguntas = [
-"Qual foi o momento mais marcante que vivemos juntos?",
-"O que você mais admira em mim?",
-"Quando você percebeu que estava apaixonado(a)?",
-"O que mudou em sua vida desde que começamos a nos relacionar?",
-"O que representa o nosso relacionamento para você?",
-"Qual foi o nosso encontro mais inesquecível?",
-"Você sente que somos parceiros em tudo? Por quê?",
-"Qual hábito meu te faz se sentir mais amado(a)?",
-"Tem algo que você gostaria de fazer juntos e ainda não fizemos?",
-"Qual é a sua lembrança favorita de nós dois?",
+"Existe alguma dor do passado que você ainda carrega?",
+"Como posso te ajudar a se sentir mais seguro(a)?",
+"Você já foi muito ferido(a) em outro relacionamento?",
+"Tem algo que você evita por medo de se machucar?",
+"Você consegue confiar com facilidade? Por quê?",
+"Tem alguma situação que ainda precisa de cura?",
+"Como lida com sentimentos difíceis no relacionamento?",
+"O que mais te magoou em um relacionamento anterior?",
+"Qual sua maior insegurança em um relacionamento?",
+"O que te ajuda a superar frustrações emocionais?",
 ];
 
 const opcoes = document.querySelectorAll(".option");

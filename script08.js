@@ -1,14 +1,14 @@
 const perguntas = [
-"Qual foi o momento mais marcante que vivemos juntos?",
-"O que você mais admira em mim?",
-"Quando você percebeu que estava apaixonado(a)?",
-"O que mudou em sua vida desde que começamos a nos relacionar?",
-"O que representa o nosso relacionamento para você?",
-"Qual foi o nosso encontro mais inesquecível?",
-"Você sente que somos parceiros em tudo? Por quê?",
-"Qual hábito meu te faz se sentir mais amado(a)?",
-"Tem algo que você gostaria de fazer juntos e ainda não fizemos?",
-"Qual é a sua lembrança favorita de nós dois?",
+"O que mais te desperta desejo em mim?",
+"Você se sente à vontade para inovar comigo na cama?",
+"Tem alguma surpresa íntima que você gostaria de preparar?",
+"Como podemos manter nossa conexão sexual sempre viva?",
+"Você prefere intensidade ou delicadeza no sexo?",
+"Qual foi nossa experiência mais memorável na cama?",
+"Você tem alguma zona de prazer pouco explorada?",
+"O que você mais deseja que eu faça durante o sexo?",
+"Você já sonhou com algo picante entre nós?",
+"Qual é a sua lembrança mais quente comigo?",
 ];
 
 const opcoes = document.querySelectorAll(".option");
