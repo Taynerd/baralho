@@ -1,3 +1,4 @@
+
 *{
     padding: 0;
     margin: 0;
@@ -6,41 +7,38 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Courier, monospace
 }
 
-body{
-   background-image: linear-gradient(180deg, rgb(233, 0, 0), rgb(80, 0, 0), rgb(2, 0, 0));
-    height: 100vh;
-    text-align: center;
-    padding-top: 20px;
-    padding-left: 10vw;
-    padding-right: 10vw;
-
-
+body {
+  background-image: linear-gradient(180deg,rgb(233, 0, 0),rgb(80, 0, 0),rgb(2, 0, 0));
+  text-align: center;
+  padding-top: 20px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom:20%;
 }
-h1{
-    padding-bottom: 20px;
-    color: #fff;
+
+h1 {
+  padding-bottom: 20px;
+  color: rgba(255, 255, 255, 1);
+  margin: 0 10%;
 }
-.options{
-    margin-top: 10%;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-
-
+.options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px 10px;
+  padding: 0 5%;
+  
 }
-.option{
-    display: block;
-    background-color: brown;
-    height: 10vh;
-    width:40vw;
-    place-items:center ;
-    flex-wrap: wrap;
-    color: aliceblue;
-    border-radius: 5px;
-    padding: 5px;
-    border: 2px solid brown;
-    box-shadow: 3px 3px 3px 3px rgb(97, 31, 31);
 
+.option {
+  display: block;
+  background-image: linear-gradient(180deg, rgb(233, 0, 0), rgb(80, 0, 0), rgb(2, 0, 0));
+  flex-wrap: wrap;
+  text-align: center;
+  color: aliceblue;
+  border-radius: 5px;
+  padding: 8px;
+  border: 2px solid brown;
 }
 
 .options p {
@@ -102,3 +100,9 @@ h1{
   color: #666;
 }
 
+footer{
+  margin-top: 5%;
+  color: #fff;
+  justify-content: center;
+  font-weight:800;
+}
