@@ -48,12 +48,6 @@ h1 {
   padding: 15px;
 }
 
-.options a:hover {
-  background-color: aliceblue;
-  color: rgb(97, 31, 31);
-  border: 2px solid rgb(97, 31, 31);
-}
-
 footer{
   margin-top: 5%;
   color: #fff;
